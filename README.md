@@ -12,6 +12,8 @@ security, account creation, login, mutex for generating the numeric Agora UID an
 
 https://github.com/RodrigoBertotti/flutter_group_chat_app_with_firebase/assets/15431956/765418d2-c25e-46dc-8054-9a5963e5fde8
 
+<sup> 🔊 The video above contains audio, click on the right side to turn it on</sup>
+
 
 |                    | Android | iOS | Web |
 |:-------------------|:-------:|----:|----:|
