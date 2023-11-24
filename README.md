@@ -9,6 +9,10 @@ security, account creation, login, mutex for generating the numeric Agora UID an
 - Firestore Security Rules: `firestore.rules` file contains rules like: only admins can add users to the group, users can only see public data of other users, etc.
 - Firestore Indexes: `firestore.indexes.json` file contains the Firestore indexes.
 
+
+https://github.com/RodrigoBertotti/flutter_group_chat_app_with_firebase/assets/15431956/765418d2-c25e-46dc-8054-9a5963e5fde8
+
+
 |                    | Android | iOS | Web |
 |:-------------------|:-------:|----:|----:|
 | Video Calls        |    ✅    |   ✅ |   ❌ |
