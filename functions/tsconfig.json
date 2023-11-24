@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "outDir": "dist",
+    "strictNullChecks": false,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017",
+    "allowSyntheticDefaultImports": true,
+    "suppressImplicitAnyIndexErrors": true,
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}
