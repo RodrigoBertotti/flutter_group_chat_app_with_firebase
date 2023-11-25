@@ -1,3 +1,4 @@
 firebase-debug.log
 *.cache
 .idea
+functions/src/environment.ts
