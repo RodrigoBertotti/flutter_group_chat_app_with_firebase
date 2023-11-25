@@ -10,7 +10,7 @@ security, account creation, login, mutex for generating the numeric Agora UID an
 - Firestore Indexes: `firestore.indexes.json` file contains the Firestore indexes.
 
 ## 🎥 [Click here to open the video](https://www.youtube.com/watch?v=dAo8S8eUIaM)
-<a href="https://www.youtube.com/watch?v=dAo8S8eUIaM"><img src="https://iili.io/JoGee9t.png" width=76% height=76%></a>
+<a href="https://www.youtube.com/watch?v=dAo8S8eUIaM"><img src="readme-image.png" width=76% height=76%></a>
 
 |                    | Android | iOS | Web |
 |:-------------------|:-------:|----:|----:|
