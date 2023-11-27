@@ -12,6 +12,8 @@ security, account creation, login, mutex for generating the numeric Agora UID an
 ## 🎥 [Click here to open the video](https://www.youtube.com/watch?v=dAo8S8eUIaM)
 <a href="https://www.youtube.com/watch?v=dAo8S8eUIaM"><img src="readme-image.png" width=76% height=76%></a>
 
+### Platforms
+
 |                    | Android | iOS | Web |
 |:-------------------|:-------:|----:|----:|
 | Video Calls        |    ✅    |   ✅ |   ❌ |
@@ -56,8 +58,6 @@ A **vapidKey** is required for web.
 5. Paste the values in the `flutter_app/web/environment.js` file
 
 ### Step 3: Video Calls (optional)
-
-#### Supported platforms
 
 1. Create your [Agora account](https://console.agora.io/projects), go to the [projects page](https://console.agora.io/projects) and click on "Create a Project"
 2. Under "Authentication" choose the **Secured mode: APP ID + Token (Recommended)** option
