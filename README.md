@@ -89,7 +89,3 @@ Feel free to open a GitHub issue about:
 ## License
 
 [MIT](LICENSE)
-
-## Contacting me
-
-📧 rodrigo@wisetap.com
