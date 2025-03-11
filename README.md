@@ -76,16 +76,6 @@ A **vapidKey** is required for web.
 - Optional: In case you prefer not deploying to web, go to `firebase.json` file and remove the `hosting` object
 - And finally, run `firebase deploy`, so the firestore security rules will be updated, cloud functions and indexes will be created.
 
-## Getting in touch
-
-Feel free to open a GitHub issue about:
-
-- :grey_question: questions
-
-- :bulb: suggestions
-
-- :ant: potential bugs
-
 ## License
 
 [MIT](LICENSE)
